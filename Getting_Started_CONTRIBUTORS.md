@@ -1,9 +1,9 @@
 ### Getting-Started Contributors
 
 ```markdown
-#### Name: [YOUR NAME](Your Profile Link)
+#### Name: Vishesh Vigh
 
--   Place: City, State, Country
--   Bio: Who are you?
--   GitHub: [Github account link](GitHub link)
+-   Place: Faridabad, Haryana, India
+-   Bio: Second year student in NIT Allahabad. Trying out software development and branching out to other ascpects of programming.
+-   GitHub: https://github.com/Vishi-Ali
 ```
